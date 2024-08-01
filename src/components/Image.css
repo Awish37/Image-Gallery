@@ -1,0 +1,9 @@
+.image-container {
+  cursor: pointer;
+}
+
+.image {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+}
